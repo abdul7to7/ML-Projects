@@ -1,0 +1,8 @@
+Faces: Chris Evans Robert Downey Jr Chris Evans 
+Objects: person person person person 
+Chars: Robert Downey Jr @RobenDowneyJr Ore WOrC; accurate frank saw infinity war @MarvelOfRogers steve rogers chris evan 
+
+Faces: God 
+Objects: bottle 
+Chars: 83 38 ROBERT UOWNEY "JR 
+
